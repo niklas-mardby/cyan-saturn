@@ -12,12 +12,18 @@ git clone https://github.com/niklas-mardby/cyan-saturn.git
 
 yarn create vite
 
+Give name cyan
+Choose React, then Typescript
+
 cd cyan
 yarn
-yarn dev
 
 yarn add -D sass
 
 rename *.css to *.scss
+
+Run with yarn dev
+
+repeat for saturn
 
 -->
