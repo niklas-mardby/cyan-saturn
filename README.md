@@ -17,7 +17,7 @@ git clone https://github.com/niklas-mardby/cyan-saturn.git
 
 Run yarn in folders cyan-saturn, cyan and saturn.
 
-Run yarn build && yarn preview in folders cyan and saturn.
+Run yarn build && yarn preview in folders cyan and saturn. You will need two terminals.
 
 Open http://localhost:5000/ to view cyan-saturn
 
