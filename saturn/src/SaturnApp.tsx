@@ -1,14 +1,14 @@
 import { useState } from "react";
-import saturn from "./assets/saturn.svg";
+import Saturn from "./assets/saturn.svg?react";
 import "./App.scss";
 
-function App() {
+const SaturnApp = () => {
   const [count, setCount] = useState(0);
 
   return (
-    <>
+    <div className="saturn">
       <div>
-        <img src={saturn} className="logo" alt="Saturn" />
+        <Saturn className="logo" />
       </div>
       <h1>saturn</h1>
       <div className="card">
@@ -16,8 +16,8 @@ function App() {
           count is {count}
         </button>
       </div>
-    </>
+    </div>
   );
-}
+};
 
-export default App;
+export default SaturnApp;

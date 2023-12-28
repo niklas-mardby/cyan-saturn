@@ -18,3 +18,15 @@
 .card {
   padding: 2em;
 }
+
+main {
+  display: flex;
+
+  section {
+    padding: 1.5em;
+    margin: 1.5em;
+    border: 2px solid darkblue;
+    border-radius: 8px;
+    min-width: 400px;
+  }
+}
