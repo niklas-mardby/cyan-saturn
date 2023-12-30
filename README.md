@@ -23,6 +23,11 @@ Open http://localhost:5000/ to view cyan-saturn
 
 Open http://localhost:5001/ to view saturn
 
+# Missing features to add
+
+- auto reload (right now you need to stop the preview with ctrl + C, then yarn build && yarn preview again)
+- routing
+
 <!--
 
 Niklas Notes
