@@ -9,7 +9,7 @@ Repo: https://github.com/niklas-mardby/cyan-saturn
 - Typescript
 - React
 - SCSS
-- Vite, vite-plugin-federation
+- Vite, vite-plugin-federation, vite-plugin-svgr
 
 # Setup
 
