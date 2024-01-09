@@ -27,6 +27,7 @@ Open http://localhost:5001/ to view saturn
 
 - auto reload (right now you need to stop the preview with ctrl + C, then yarn build && yarn preview again)
 - routing
+- global/local store
 
 <!--
 
